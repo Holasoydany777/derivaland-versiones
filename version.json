@@ -4,16 +4,16 @@
   "sha256": "810938f017b0632931ac6b5af6db44946e3110256ec00913873617934869dc58",
   "size": 58383044,
   "launcher": {
-    "version": "1.7.0",
-    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.7.0.exe",
-    "sha256": "28bdb5b1f4a2ffcf2ccc0e951e275ef48d1d173da623f6807091c095ee692107",
+    "version": "1.9.0",
+    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.9.0.exe",
+    "sha256": "d0c1719f7b3f66d7ccc1ee2290d9e2a1ea64ce1a21910321efe3e264ecdaf74d",
     "minimo": "1.7.0"
   },
   "bloqueados": [],
   "launcher_admin": {
-    "version": "1.8.0",
-    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher-admin/Launcher-Derivaland-Admin-Setup-1.8.0.exe",
-    "sha256": "ec2c87179455abcfa5518aee0a6a9c6fa650a4d2aa27ebe72d81b20b80e3821e"
+    "version": "1.9.0",
+    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher-admin/Launcher-Derivaland-Admin-Setup-1.9.0.exe",
+    "sha256": "6f982c2a4ca13a8a07cd49f2993604e2c451b88d07c021ce08e7b1d963d5e878"
   },
   "admins": []
 }

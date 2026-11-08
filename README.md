@@ -17,6 +17,14 @@ Aquí se publican las versiones del modpack de Coralosis para el Launcher Deriva
 - Para hacer cambios necesita la clave de admin (un token de GitHub con permiso de escritura en este repositorio). Se pone una vez en la pestaña Admin y se guarda cifrada en ese PC.
 - `admins` en `version.json`: si tiene a alguien, solo esas cuentas de Minecraft pueden usar el panel. Vacía = cualquiera con la clave.
 
+## Lo que deciden los admins (desde el launcher 1.9.0)
+Todo esto se cambia desde la pestaña Admin y lo leen todos los launchers cada pocos minutos:
+- `anuncio`, `mantenimiento`, `cuenta_atras`: aviso arriba del todo, bloqueo de Jugar con mensaje y cuenta atrás.
+- `servidor` y `enlaces`: servidor de la serie con botón para entrar y enlaces (Discord, YouTube…).
+- `noticias` y `notas`: noticias de la pestaña Novedades y lo que trae cada versión del modpack.
+- `modo_serie`: si está activo, solo juegan las cuentas aprobadas. `moderadores`: rango con menos permisos que admin.
+- `historial_modpack` y `retroceso`: versiones anteriores para volver atrás si una sale rota.
+
 ## Cuentas bloqueadas
 - `bloqueados` en `version.json`: cuentas de Minecraft que no pueden usar el launcher (desde el 1.7.0). Van por UUID, así que cambiarse el nombre no sirve.
 - Para bloquear a alguien más, se añade `{ "uuid": "...", "nombre": "..." }`. El UUID sale en `https://api.mojang.com/users/profiles/minecraft/NOMBRE`. Para quitarlo, se borra su línea.
