@@ -10,3 +10,6 @@ Aquí se publican las versiones del modpack de Coralosis para el Launcher Deriva
 ## Launcher
 - `launcher/` tiene el instalador del Launcher Derivaland (solo el último). El 1.6.0 ya mira este repositorio solo, sin configurar nada.
 - `version.json` también dice cuál es el último launcher, así los launchers se actualizan solos.
+
+## Herramientas (repuesto)
+- `herramientas/` tiene copias de yt-dlp, ffmpeg y deno para Windows. El mod de altavoces las usa si no puede descargarlas de su web original (por ejemplo, cuando GitHub da error 504).
