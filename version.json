@@ -2,5 +2,10 @@
   "version": "1.22.18",
   "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.18.zip",
   "sha256": "79b1de6eebaff81ec73b13b0ae38174094e5f67a6b8093cfcc8820389dc6d5a4",
-  "size": 52153120
+  "size": 52153120,
+  "launcher": {
+    "version": "1.6.0",
+    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.6.0.exe",
+    "sha256": "4833fed4ae891c002ec84389cf4b7d676b3411415e704db39753996ae181bb13"
+  }
 }
