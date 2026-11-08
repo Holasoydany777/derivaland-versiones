@@ -14,5 +14,11 @@
       "uuid": "77cbcd1208e747fc9bc3b500790f742a",
       "nombre": "CyberTiger"
     }
-  ]
+  ],
+  "launcher_admin": {
+    "version": "1.8.0",
+    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher-admin/Launcher-Derivaland-Admin-Setup-1.8.0.exe",
+    "sha256": "ec2c87179455abcfa5518aee0a6a9c6fa650a4d2aa27ebe72d81b20b80e3821e"
+  },
+  "admins": []
 }
