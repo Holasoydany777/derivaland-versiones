@@ -9,12 +9,7 @@
     "sha256": "28bdb5b1f4a2ffcf2ccc0e951e275ef48d1d173da623f6807091c095ee692107",
     "minimo": "1.7.0"
   },
-  "bloqueados": [
-    {
-      "uuid": "77cbcd1208e747fc9bc3b500790f742a",
-      "nombre": "CyberTiger"
-    }
-  ],
+  "bloqueados": [],
   "launcher_admin": {
     "version": "1.8.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher-admin/Launcher-Derivaland-Admin-Setup-1.8.0.exe",
