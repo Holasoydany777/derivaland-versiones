@@ -4,8 +4,15 @@
   "sha256": "810938f017b0632931ac6b5af6db44946e3110256ec00913873617934869dc58",
   "size": 58383044,
   "launcher": {
-    "version": "1.6.0",
-    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.6.0.exe",
-    "sha256": "4833fed4ae891c002ec84389cf4b7d676b3411415e704db39753996ae181bb13"
-  }
+    "version": "1.7.0",
+    "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.7.0.exe",
+    "sha256": "28bdb5b1f4a2ffcf2ccc0e951e275ef48d1d173da623f6807091c095ee692107",
+    "minimo": "1.7.0"
+  },
+  "bloqueados": [
+    {
+      "uuid": "77cbcd1208e747fc9bc3b500790f742a",
+      "nombre": "CyberTiger"
+    }
+  ]
 }
