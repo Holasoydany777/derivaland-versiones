@@ -9,7 +9,13 @@
     "sha256": "28bdb5b1f4a2ffcf2ccc0e951e275ef48d1d173da623f6807091c095ee692107",
     "minimo": "1.7.0"
   },
-  "bloqueados": [],
+  "bloqueados": [
+    {
+      "uuid": "e41e791f4d08402a9f04872bb757a9d3",
+      "nombre": "ZainZero",
+      "motivo": "Gay"
+    }
+  ],
   "launcher_admin": {
     "version": "1.8.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher-admin/Launcher-Derivaland-Admin-Setup-1.8.0.exe",
