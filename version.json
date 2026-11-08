@@ -1,8 +1,8 @@
 {
-  "version": "1.22.43",
-  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.43.zip",
-  "sha256": "810938f017b0632931ac6b5af6db44946e3110256ec00913873617934869dc58",
-  "size": 58383044,
+  "version": "1.22.44",
+  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.44.zip",
+  "sha256": "b6ac124731f72a9a4122e11b4b2e4678f71f562a173f5b4e4803c36fdf702330",
+  "size": 58432232,
   "launcher": {
     "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.9.0.exe",
@@ -20,5 +20,17 @@
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher-admin/Launcher-Derivaland-Admin-Setup-1.9.0.exe",
     "sha256": "6f982c2a4ca13a8a07cd49f2993604e2c451b88d07c021ce08e7b1d963d5e878"
   },
-  "admins": []
+  "admins": [],
+  "historial_modpack": [
+    {
+      "version": "1.22.43",
+      "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/11b1f7d6a01172a8d5cfa0b62af461119b351c9b/modpack/Coralosis-Modpack-1.22.43.zip",
+      "sha256": "810938f017b0632931ac6b5af6db44946e3110256ec00913873617934869dc58",
+      "size": 58383044,
+      "fecha": "2026-11-08T21:13:21.695667Z"
+    }
+  ],
+  "notas": {
+    "1.22.44": "• NUEVO: Casino Derivaland con Mesa de blackjack (pestaña Casino del creativo, o lana verde + tablas + esmeralda).\n• Juega solo contra la banca o hasta 4 en la misma mesa, por turnos.\n• Apuesta con Fichas de casino: en la mesa cambias esmeraldas por fichas y al revés.\n• Pedir, Plantarse y Doblar. La banca se planta con 17 y el blackjack paga 3 a 2.\n• Admins: /fichas dar y /fichas quitar."
+  }
 }
