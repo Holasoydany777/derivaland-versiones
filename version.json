@@ -1,8 +1,8 @@
 {
-  "version": "1.22.45",
-  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.45.zip",
-  "sha256": "0a16e8cd901848c1cf2cc3d46061ac426393ec40e46557d4278945a26134a36a",
-  "size": 58532635,
+  "version": "1.22.47",
+  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.47.zip",
+  "sha256": "65ad99da132ecb1ea5748c0cfb88090781f17da4f7cdf9639e16e6371098836a",
+  "size": 59141170,
   "launcher": {
     "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.9.0.exe",
@@ -23,6 +23,13 @@
   "admins": [],
   "historial_modpack": [
     {
+      "version": "1.22.45",
+      "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/6cb913c1790387c7b3faa5fcb1bf06b3932cf87b/modpack/Coralosis-Modpack-1.22.45.zip",
+      "sha256": "0a16e8cd901848c1cf2cc3d46061ac426393ec40e46557d4278945a26134a36a",
+      "size": 58532635,
+      "fecha": "2026-11-09T21:56:39.179915+00:00"
+    },
+    {
       "version": "1.22.44",
       "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/272079b3b19a6adc259287ba77c12d01555b4f87/modpack/Coralosis-Modpack-1.22.44.zip",
       "sha256": "b6ac124731f72a9a4122e11b4b2e4678f71f562a173f5b4e4803c36fdf702330",
@@ -39,6 +46,7 @@
   ],
   "notas": {
     "1.22.44": "• NUEVO: Casino Derivaland con Mesa de blackjack (pestaña Casino del creativo, o lana verde + tablas + esmeralda).\n• Juega solo contra la banca o hasta 4 en la misma mesa, por turnos.\n• Apuesta con Fichas de casino: en la mesa cambias esmeraldas por fichas y al revés.\n• Pedir, Plantarse y Doblar. La banca se planta con 17 y el blackjack paga 3 a 2.\n• Admins: /fichas dar y /fichas quitar.",
-    "1.22.45": "• CASINO 2.0: todo funciona con DerivaCoins. Las fichas de ayer se canjean 1 a 1 con el botón «Canjear fichas».\n• Juegos nuevos: Ruleta, Dados, Rueda de la fortuna, Carrera de tortugas, Plinko, Minas, Vídeo póker y Cara o cruz.\n• Blackjack mejorado: cartas que se reparten desde el zapato y botón de Rendirse.\n• Animaciones en pantalla y en el mundo: las mesas y máquinas se encienden y se mueven mientras se juega.\n• Tragaperras: rebote de rodillos y celebración cuando toca premio.\n• Admins: /casino construir levanta el edificio del casino con todo dentro (/casino deshacer lo quita)."
+    "1.22.45": "• CASINO 2.0: todo funciona con DerivaCoins. Las fichas de ayer se canjean 1 a 1 con el botón «Canjear fichas».\n• Juegos nuevos: Ruleta, Dados, Rueda de la fortuna, Carrera de tortugas, Plinko, Minas, Vídeo póker y Cara o cruz.\n• Blackjack mejorado: cartas que se reparten desde el zapato y botón de Rendirse.\n• Animaciones en pantalla y en el mundo: las mesas y máquinas se encienden y se mueven mientras se juega.\n• Tragaperras: rebote de rodillos y celebración cuando toca premio.\n• Admins: /casino construir levanta el edificio del casino con todo dentro (/casino deshacer lo quita).",
+    "1.22.47": "• CASINO EN 3D: todas las mesas y máquinas tienen modelo nuevo (ruleta con su rueda, rueda de la fortuna de pie, plinko con clavos, vitrina de cara o cruz…). Al jugar giran y se encienden.\n• FLECHAS NUEVAS: de cobre, hierro, oro, diamante, percebes, netherita y coral purificado, y la flecha de ender (te lleva donde se clava).\n• Cangrejos ermitaños: 13 personajes para los admins (/disfraz cangrejo) y cangrejos NPC.\n• Tumbas: las cosas van a la tumba aunque el servidor tenga keepInventory.\n• Minimapa: calavera en la última muerte, cruces en las demás, distancias y rayos en los waypoints.\n• Altavoces: arreglado el sonido a cámara lenta y grave."
   }
 }
