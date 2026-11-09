@@ -1,8 +1,8 @@
 {
-  "version": "1.22.49",
-  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.49.zip",
-  "sha256": "56547c95fb455513ae0e69fbe977d304aed1d4525b0aa74cdcd4b3fd4efdfe93",
-  "size": 59614293,
+  "version": "1.22.50",
+  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.50.zip",
+  "sha256": "623ef04eb77ec27944f7aa3aecae732c690d7c505c15ea1e474bee3b3beae0ab",
+  "size": 59618250,
   "launcher": {
     "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.9.0.exe",
@@ -22,6 +22,13 @@
   },
   "admins": [],
   "historial_modpack": [
+    {
+      "version": "1.22.49",
+      "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/d6681272b08f5783afa8452551a4fb508d5d8bb4/modpack/Coralosis-Modpack-1.22.49.zip",
+      "sha256": "56547c95fb455513ae0e69fbe977d304aed1d4525b0aa74cdcd4b3fd4efdfe93",
+      "size": 59614293,
+      "fecha": "2026-11-09T23:24:44.207047+00:00"
+    },
     {
       "version": "1.22.48",
       "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/08909a526a1ab8200c4b610522b6b80b2953a7cc/modpack/Coralosis-Modpack-1.22.48.zip",
@@ -63,6 +70,7 @@
     "1.22.45": "• CASINO 2.0: todo funciona con DerivaCoins. Las fichas de ayer se canjean 1 a 1 con el botón «Canjear fichas».\n• Juegos nuevos: Ruleta, Dados, Rueda de la fortuna, Carrera de tortugas, Plinko, Minas, Vídeo póker y Cara o cruz.\n• Blackjack mejorado: cartas que se reparten desde el zapato y botón de Rendirse.\n• Animaciones en pantalla y en el mundo: las mesas y máquinas se encienden y se mueven mientras se juega.\n• Tragaperras: rebote de rodillos y celebración cuando toca premio.\n• Admins: /casino construir levanta el edificio del casino con todo dentro (/casino deshacer lo quita).",
     "1.22.47": "• CASINO EN 3D: todas las mesas y máquinas tienen modelo nuevo (ruleta con su rueda, rueda de la fortuna de pie, plinko con clavos, vitrina de cara o cruz…). Al jugar giran y se encienden.\n• FLECHAS NUEVAS: de cobre, hierro, oro, diamante, percebes, netherita y coral purificado, y la flecha de ender (te lleva donde se clava).\n• Cangrejos ermitaños: 13 personajes para los admins (/disfraz cangrejo) y cangrejos NPC.\n• Tumbas: las cosas van a la tumba aunque el servidor tenga keepInventory.\n• Minimapa: calavera en la última muerte, cruces en las demás, distancias y rayos en los waypoints.\n• Altavoces: arreglado el sonido a cámara lenta y grave.",
     "1.22.48": "• CASINO 3.0: 36 juegos, a tamaño de jugador y con animaciones 3D que ven todos.\n• 27 juegos nuevos: 7 tragaperras (Derivaland, Coral, Frutas, Dino, Pirata, Cangrejos, Kraken), baccarat, Texas, sic bo, mayor o menor, guerra, dragón y tigre, craps, keno y bingo.\n• Arcade: gancho de peluches (¡te lo llevas!), empuja-monedas, machaca topos, pachinko, torre de bloques y caballos.\n• Rápidos: rasca y gana, crash, cofre del tesoro, ruleta de pociones y lotería diaria (sorteo a las 21:00).\n• Edificio nuevo del casino con /casino construir.",
-    "1.22.49": "• CASINO DE 2 PLANTAS: cartel CASINO en neón con bombillas, marquesina, atrio a doble altura con lámparas de araña, escaleras, bar y zona VIP.\n• 16 bloques de decoración nuevos: moquetas, mármol, terciopelo, paneles y columnas doradas, neones, bombillas, lámparas, barandillas, taburetes y barra.\n• Arreglado: vídeo póker, mayor o menor, bingo y rasca salían con partes sin textura."
+    "1.22.49": "• CASINO DE 2 PLANTAS: cartel CASINO en neón con bombillas, marquesina, atrio a doble altura con lámparas de araña, escaleras, bar y zona VIP.\n• 16 bloques de decoración nuevos: moquetas, mármol, terciopelo, paneles y columnas doradas, neones, bombillas, lámparas, barandillas, taburetes y barra.\n• Arreglado: vídeo póker, mayor o menor, bingo y rasca salían con partes sin textura.",
+    "1.22.50": "• Plaza de entrada con fuentes, palmeras, farolas y alfombra roja.\n• Fachada con ventanas iluminadas, remate dorado con bombillas y focos al cielo.\n• Dentro: columnas con neón, fuente, estatua gigante del dino de DinoFino, sofás, plantas y letrero JACKPOT.\n• Arriba: letreros BAR y VIP, escenario con tocadiscos y focos, mesitas y taburetes."
   }
 }
