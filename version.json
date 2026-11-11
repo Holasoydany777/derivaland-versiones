@@ -1,8 +1,8 @@
 {
-  "version": "1.22.52",
-  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.52.zip",
-  "sha256": "e491bd17b5a6f5b661d417040f73cc881ffe427b5df1d4f4fc98fb8526619be7",
-  "size": 59774464,
+  "version": "1.22.56",
+  "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.22.56.zip",
+  "sha256": "1b33ef2ef92203b0d2f57c3dc09879c0998137209e8e17551873635cede0b904",
+  "size": 64030410,
   "launcher": {
     "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.9.0.exe",
@@ -22,6 +22,13 @@
   },
   "admins": [],
   "historial_modpack": [
+    {
+      "version": "1.22.52",
+      "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/faaf0b52efcf75d180279300fb27b1e3b5630f6a/modpack/Coralosis-Modpack-1.22.52.zip",
+      "sha256": "e491bd17b5a6f5b661d417040f73cc881ffe427b5df1d4f4fc98fb8526619be7",
+      "size": 59774464,
+      "fecha": "2026-11-11T19:52:20.464520+00:00"
+    },
     {
       "version": "1.22.51",
       "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/3c6c5be9d1233ccb9a8b7d4c1fd4a607782e4c99/modpack/Coralosis-Modpack-1.22.51.zip",
@@ -87,6 +94,7 @@
     "1.22.49": "• CASINO DE 2 PLANTAS: cartel CASINO en neón con bombillas, marquesina, atrio a doble altura con lámparas de araña, escaleras, bar y zona VIP.\n• 16 bloques de decoración nuevos: moquetas, mármol, terciopelo, paneles y columnas doradas, neones, bombillas, lámparas, barandillas, taburetes y barra.\n• Arreglado: vídeo póker, mayor o menor, bingo y rasca salían con partes sin textura.",
     "1.22.50": "• Plaza de entrada con fuentes, palmeras, farolas y alfombra roja.\n• Fachada con ventanas iluminadas, remate dorado con bombillas y focos al cielo.\n• Dentro: columnas con neón, fuente, estatua gigante del dino de DinoFino, sofás, plantas y letrero JACKPOT.\n• Arriba: letreros BAR y VIP, escenario con tocadiscos y focos, mesitas y taburetes.",
     "1.22.51": "• CASINO REIMAGINADO: edificio art déco nuevo entero con cartel CASINO gigante en el tejado, banda DERIVALAND en neón, pórtico con marquesina y plaza con fuentes y palmeras.\n• Dentro: islas de tragaperras con marquesinas de luces, fosos de mesas, rotonda con el dino bajo una cúpula de cristal dorado y techos artesonados.\n• Arriba: ruleta, craps, caballos y tortugas, BAR, VIP y escenario SHOW.\n• 8 bloques de decoración nuevos (piedra crema, fachada art déco, cornisa, techo artesonado, vidriera, moqueta de estrellas, papel art déco y plafón de luz).\n• Arreglado: caballos y tortugas corrían de espaldas.",
-    "1.22.52": "• CRUPIERES EN 3D en las 12 mesas: reparten cartas, tiran dados, giran la ruleta, dan la salida de las carreras, aplauden cuando ganas y te saludan.\n• BARRA DE CÓCTELES con camarero en 3D: coge las botellas, agita la coctelera y te sirve el cóctel delante de ti.\n• 10 cócteles con efectos: Mojito, Piña colada, Margarita, Blue Lagoon, Tequila Sunrise, Cosmopolitan, Daiquiri de fresa, Coral Deriva, Dino Verde y Noche Dorada.\n• Todos los juegos: lluvia de monedas, fuegos artificiales y fanfarria al ganar, y ¡¡GRAN PREMIO!! con x10 o más.\n• Arreglado: piezas de las animaciones giradas del revés y caballos y tortugas de espaldas."
+    "1.22.52": "• CRUPIERES EN 3D en las 12 mesas: reparten cartas, tiran dados, giran la ruleta, dan la salida de las carreras, aplauden cuando ganas y te saludan.\n• BARRA DE CÓCTELES con camarero en 3D: coge las botellas, agita la coctelera y te sirve el cóctel delante de ti.\n• 10 cócteles con efectos: Mojito, Piña colada, Margarita, Blue Lagoon, Tequila Sunrise, Cosmopolitan, Daiquiri de fresa, Coral Deriva, Dino Verde y Noche Dorada.\n• Todos los juegos: lluvia de monedas, fuegos artificiales y fanfarria al ganar, y ¡¡GRAN PREMIO!! con x10 o más.\n• Arreglado: piezas de las animaciones giradas del revés y caballos y tortugas de espaldas.",
+    "1.22.56": "• SOLO CON FICHAS: todo el casino se juega con fichas; se cambian en la máquina de cambio (DerivaCoins → fichas).\n• LA CASA SIEMPRE GANA: interruptor y ventaja mínima en el panel de premios (viene con un 1 %).\n• Panel de premios para admins (mayúsculas + clic derecho o /casino premios), Casino Tower y tragaperras 3D de DerivaEconomía.\n• Música nueva del casino («Casino» y «Azar») y deslizador de volumen de música para cada jugador en el chat de voz.\n• Gran Casino (/casino2) con escalera doble de mármol en el atrio."
   }
 }
