@@ -123,7 +123,7 @@
     "fecha": "2026-11-15T17:05:00.000Z"
   },
   "modo_serie": {
-    "activo": true,
+    "activo": false,
     "aprobados": []
   }
 }
