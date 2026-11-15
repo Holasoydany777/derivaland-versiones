@@ -117,5 +117,9 @@
     "activo": true,
     "mensaje": "BUGS",
     "vuelta": "2026-11-15T17:01:00.000Z"
+  },
+  "cuenta_atras": {
+    "titulo": "CORALOSIS",
+    "fecha": "2026-11-15T17:05:00.000Z"
   }
 }
