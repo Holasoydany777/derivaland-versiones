@@ -125,5 +125,17 @@
   "modo_serie": {
     "activo": false,
     "aprobados": []
-  }
+  },
+  "noticias": [
+    {
+      "id": "mwi31r98",
+      "etiqueta": "DAWD",
+      "titulo": "DWAD",
+      "resumen": "dwadaw",
+      "texto": "dwadwa",
+      "arte": "golem",
+      "fecha": "2026-11-15T17:02:36.860Z",
+      "autor": "DinoFinoo"
+    }
+  ]
 }
