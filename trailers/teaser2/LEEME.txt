@@ -1,0 +1,84 @@
+DERIVALAND REMAKE — TEASER TRÁILER 2 (mod para grabarlo)
+==========================================================
+
+Todo el teaser pasa DENTRO de Minecraft: el pueblo, la cámara, los vecinos con sus skins, la coralosis
+que avanza, los textos (Lora, la tipografía del teaser 1), el logo final del teaser 1 (el mismo, limpio y
+luego infectado), «PRONTO...» con las letras de «2027...», la música y los efectos. Tú solo grabas.
+
+Archivos
+- derivateaser2-1.0.0.jar ........ el mod (pueblo + director del teaser)
+- animatic_teaser2.mp4 ........... cómo van los tiempos, los textos, el logo y el sonido (sin la imagen del juego)
+- banda_sonora_teaser2.wav ....... la música entera (70 s), por si montáis planos sueltos
+- skins/ ......................... las skins de los vecinos (sanos e infectados), hechas desde cero
+- derivateaser2-1.0.0-src.zip .... el código y los scripts que hacen la música, las skins y los textos
+
+-------------------------------------------------------------------------
+CÓMO GRABARLO
+-------------------------------------------------------------------------
+1. Pon derivateaser2-1.0.0.jar en la carpeta mods del Derivaland (modpack 1.22.56, NeoForge 26.2).
+   Es solo para grabar: NO va en el modpack, ni en el servidor, ni en GitHub.
+2. Crea un mundo NUEVO de un jugador (creativo). El pueblo se monta en una dimensión aparte y no toca tu mundo.
+   Mientras dura el teaser se cambian la hora y el clima; al acabar vuelven a como estaban.
+3. Ajustes: Shaders > Derivaland_Shaders en ULTRA. Distancia de renderizado 16 (o más) y
+   «Distancia de entidades» al 100 % o más (la silueta del plano 17 está a 75 bloques).
+   La interfaz, el FOV y la música del juego los controla el mod (no hace falta pulsar F1).
+4. (Opcional) Para que ZainZero salga junto a ti en la plaza:  /teasertrailer2 amigo <su nombre de Minecraft>
+   Tú sales siempre con tu propia skin (el que graba).
+5. Empieza a grabar en OBS y escribe:   /teasertrailer2 accion
+   La primera vez monta el pueblo (unos segundos, sale un aviso). Luego 4 segundos en negro y el teaser: 71 s.
+   Recorta el negro del principio al montar.
+6. Al acabar:   /teasertrailer2 salir   (vuelves a donde estabas y a tu modo de juego)
+
+Otros comandos
+- /teasertrailer2 plano 1 … 19   repite un plano suelto (para mirar o regrabar uno). Sin música: la música
+                                 es una sola pista de 70 s; si montáis planos sueltos usad banda_sonora_teaser2.wav
+- /teasertrailer2 parar          corta en el momento
+- /teasertrailer2 ir             entras al pueblo en espectador para pasear y mirarlo
+- /teasertrailer2 montar         vuelve a levantar el pueblo (si algo se ha quedado raro)
+
+-------------------------------------------------------------------------
+LOS PLANOS (los mismos del storyboard)
+-------------------------------------------------------------------------
+ 1  0:00  Amanecer       Dron desde el mar hacia el pueblo, con el sol saliendo detrás y algo de bruma.
+ 2  0:04  Calle          Travelling lateral: Marta, Tomás y Lucía paseando; el abuelo Elías saluda.
+ 3  0:07  Cartel         «DERIVALAND» en el cartel de madera de la entrada.
+ 4  0:10  Plaza          La fuente, Vega y Pablo jugando, tú (y ZainZero) de espaldas. «Derivaland siempre fue nuestro hogar.»
+ 5  0:14  Niños          Corren hacia la playa en picado; Nico se para y mira al mar. (La nana hace una nota rara.)
+ 6  0:18  Arrecife       Bajo el agua: un coral que late y brilla. La cámara sube.
+ 7  0:21  Pozo           El coral sale de las paredes del pozo.
+ 8  0:24  Trigo          El trigo se marchita y se vuelve coral, de lejos hacia la cámara.
+ 9  0:27  Atardecer      Las luces del edificio grande (el casino, sin cartel) parpadean. «Pero algo despertó bajo el agua.»
+10  0:31  El giro        Iker de espaldas; se gira: coral en la cabeza y ojos rosas.
+11  0:35  Desde arriba   De noche, la coralosis avanza por las calles (manchas rosas que brillan).
+12  0:38  Puertas        Cámara en mano: portazos y antorchas que se apagan al ritmo del latido.
+13  0:41  Campana        Cubierta de coral, suena sola.
+14  0:44  Infectados     Ocho vecinos infectados en la plaza miran a cámara y ladean la cabeza a la vez.
+15  0:47  Cartel roto    El cartel partido y comido por el coral. «Y no se va a detener.»
+16  0:52  Destellos      Coral · ojo · agua · fuego · mar (medio segundo cada uno).
+17  0:55  Silencio       Negro y una gota. 2 ticks (3 fotogramas): una silueta enorme en el mar a contraluz, con ojos rosas.
+18  0:58  Logo           Golpe. El logo del teaser 1, la coralosis se lo come, «PRONTO...».
+19  1:05  Post           Nico solo en la playa, de noche. Notas rotas de la nana y un sonido que no se explica.
+
+Pistas escondidas (para que la comunidad las busque): la silueta del plano 17, las luces del casino,
+el sonido del final, y tu skin (y la de ZainZero) en la plaza antes de la infección.
+
+-------------------------------------------------------------------------
+LOS VECINOS
+-------------------------------------------------------------------------
+No son aldeanos de Minecraft: son personajes con forma de jugador y skins propias (no sacadas de webs, para
+que no haya problemas de derechos en un tráiler público). Andan, corren, giran la cabeza y el cuerpo y miran
+a cámara. Adultos: Marta (panadera), Tomás (granjero), el abuelo Elías, Lucía (pescadora), Iker y Rosa.
+Niños: Nico, Vega y Pablo. Todos tienen su versión infectada (gris, manchas de coral, ojos rosas y coral
+saliendo de la cabeza). Las tienes en la carpeta skins/ por si queréis usarlas en otra cosa.
+
+-------------------------------------------------------------------------
+IMPORTANTE
+-------------------------------------------------------------------------
+- No lo he probado dentro de Minecraft (como acordamos). Está compilado contra NeoForge 26.2.0.93 y he
+  comprobado que Minecraft lee bien las skins, los carteles y los datos de las entidades, pero los encuadres
+  no los he visto. Graba primero los planos sueltos (/teasertrailer2 plano N) y dime cuál sale mal:
+  lo muevo en un momento. Los que más pueden necesitar ajuste: 2 (calle), 10 (el giro), 14 (infectados,
+  por la oscuridad con shaders), 15 (cartel roto) y 17 (tamaño de la silueta).
+- La música y los efectos los he hecho yo desde cero, pero no puedo oírlos: escucha el animatic y dime
+  si algo suena mal o fuera de sitio.
+- Si está el mod de la Coralosis, el coral corrupto sale de ahí; si no, usa corales normales.
