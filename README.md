@@ -34,5 +34,5 @@ Todo esto se cambia desde la pestaña Admin y lo leen todos los launchers cada p
 - `herramientas/` tiene copias de yt-dlp, ffmpeg y deno para Windows. El mod de altavoces las usa si no puede descargarlas de su web original (por ejemplo, cuando GitHub da error 504).
 
 ## Tráilers
-- `trailers/` tiene los mods para grabar los tráilers dentro de Minecraft. **No van en el modpack ni en el servidor**: no tocan `version.json` y el launcher no los descarga.
-- `trailers/teaser2/`: Teaser Tráiler 2 de Derivaland Remake (`derivateaser2`). Se pone en la carpeta mods solo para grabar y se lanza con `/teasertrailer2 accion`. Instrucciones en su `LEEME.txt`.
+- `trailers/` tiene los mods para grabar los tráilers dentro de Minecraft, con sus instrucciones y el código.
+- `trailers/teaser2/`: Teaser Tráiler 2 de Derivaland Remake (`derivateaser2`). Va dentro del modpack desde la 1.22.94 y se lanza con `/teasertrailer2 accion` en un mundo de un jugador. Instrucciones en su `LEEME.txt`.
