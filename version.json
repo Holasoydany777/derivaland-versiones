@@ -128,5 +128,11 @@
       "fecha": "2026-11-15T17:02:36.860Z",
       "autor": "DinoFinoo"
     }
+  ],
+  "moderadores": [
+    {
+      "uuid": "ecf1eb4db31e42f1a40f5631d03e9ed8",
+      "nombre": "DinoFinoo"
+    }
   ]
 }
