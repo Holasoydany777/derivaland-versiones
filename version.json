@@ -115,6 +115,7 @@
   },
   "mantenimiento": {
     "activo": true,
-    "mensaje": "BUGS"
+    "mensaje": "BUGS",
+    "vuelta": "2026-11-15T17:01:00.000Z"
   }
 }
