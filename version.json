@@ -1,8 +1,8 @@
 {
-  "version": "1.54.5",
-  "url": "https://media.githubusercontent.com/media/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.54.5.zip",
-  "sha256": "6a135dde5730ad6c86e7d96670d86de6651149eff72224fa9b1a57423e5885b4",
-  "size": 285734980,
+  "version": "1.60.0",
+  "url": "https://media.githubusercontent.com/media/Holasoydany777/derivaland-versiones/main/modpack/Coralosis-Modpack-1.60.0.zip",
+  "sha256": "d54f68f4ec92a3e8e7b62bc653f242044024127d9498353148815e0dcaad68e9",
+  "size": 285953431,
   "launcher": {
     "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/launcher/Launcher-Derivaland-Setup-1.9.0.exe",
@@ -22,6 +22,13 @@
   },
   "admins": [],
   "historial_modpack": [
+    {
+      "version": "1.54.5",
+      "url": "https://media.githubusercontent.com/media/Holasoydany777/derivaland-versiones/19a6563621ad98a2e948a6d7471f3189d7674d4e/modpack/Coralosis-Modpack-1.54.5.zip",
+      "sha256": "6a135dde5730ad6c86e7d96670d86de6651149eff72224fa9b1a57423e5885b4",
+      "size": 285734980,
+      "fecha": "2026-11-22T15:30:56.767805+00:00"
+    },
     {
       "version": "1.25.3",
       "url": "https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/5d9b05afd371df30566032b14668e630f047c864/modpack/Coralosis-Modpack-1.25.3.zip",
@@ -129,7 +136,6 @@
     }
   ],
   "notas": {
-    "1.22.44": "• NUEVO: Casino Derivaland con Mesa de blackjack (pestaña Casino del creativo, o lana verde + tablas + esmeralda).\n• Juega solo contra la banca o hasta 4 en la misma mesa, por turnos.\n• Apuesta con Fichas de casino: en la mesa cambias esmeraldas por fichas y al revés.\n• Pedir, Plantarse y Doblar. La banca se planta con 17 y el blackjack paga 3 a 2.\n• Admins: /fichas dar y /fichas quitar.",
     "1.22.45": "• CASINO 2.0: todo funciona con DerivaCoins. Las fichas de ayer se canjean 1 a 1 con el botón «Canjear fichas».\n• Juegos nuevos: Ruleta, Dados, Rueda de la fortuna, Carrera de tortugas, Plinko, Minas, Vídeo póker y Cara o cruz.\n• Blackjack mejorado: cartas que se reparten desde el zapato y botón de Rendirse.\n• Animaciones en pantalla y en el mundo: las mesas y máquinas se encienden y se mueven mientras se juega.\n• Tragaperras: rebote de rodillos y celebración cuando toca premio.\n• Admins: /casino construir levanta el edificio del casino con todo dentro (/casino deshacer lo quita).",
     "1.22.47": "• CASINO EN 3D: todas las mesas y máquinas tienen modelo nuevo (ruleta con su rueda, rueda de la fortuna de pie, plinko con clavos, vitrina de cara o cruz…). Al jugar giran y se encienden.\n• FLECHAS NUEVAS: de cobre, hierro, oro, diamante, percebes, netherita y coral purificado, y la flecha de ender (te lleva donde se clava).\n• Cangrejos ermitaños: 13 personajes para los admins (/disfraz cangrejo) y cangrejos NPC.\n• Tumbas: las cosas van a la tumba aunque el servidor tenga keepInventory.\n• Minimapa: calavera en la última muerte, cruces en las demás, distancias y rayos en los waypoints.\n• Altavoces: arreglado el sonido a cámara lenta y grave.",
     "1.22.48": "• CASINO 3.0: 36 juegos, a tamaño de jugador y con animaciones 3D que ven todos.\n• 27 juegos nuevos: 7 tragaperras (Derivaland, Coral, Frutas, Dino, Pirata, Cangrejos, Kraken), baccarat, Texas, sic bo, mayor o menor, guerra, dragón y tigre, craps, keno y bingo.\n• Arcade: gancho de peluches (¡te lo llevas!), empuja-monedas, machaca topos, pachinko, torre de bloques y caballos.\n• Rápidos: rasca y gana, crash, cofre del tesoro, ruleta de pociones y lotería diaria (sorteo a las 21:00).\n• Edificio nuevo del casino con /casino construir.",
@@ -143,7 +149,8 @@
     "1.22.94": "• Nuevo mod Derivaland: Teaser Tráiler 2. Solo funciona en un mundo de un jugador: /teasertrailer2 accion monta el pueblo en una dimensión aparte y reproduce el teaser entero (cámara, vecinos, textos, logo y música). En el servidor no hace nada.",
     "1.22.95": "• Teaser Tráiler 2 (1.1.0): más largo (88 s), sin el casino ni el boss del final, sin parpadeos, con skins nuevas mucho más detalladas y música nueva.\n• Se sigue lanzando con /teasertrailer2 accion en un mundo de un jugador; si el pueblo era de la versión anterior, se vuelve a montar solo.",
     "1.25.3": "• SUBASTAS EN DIRECTO: un admin pone a la venta lo que lleva en la mano con /subasta empezar <precio> [segundos] [subida]. Se puja en DerivaCoins con los botones del chat o /pujar. Prórroga si pujan al final, cuenta atrás «¡A la una, a las dos, a las tres!» y ¡ADJUDICADO!\n• Atril de subasta (pestaña del casino): si hay uno cerca, el objeto flota encima. Doble clic para pujar; agachado para ver la subasta.\n• TORNEO DE PÓKER O BLACKJACK: evento especial que un admin abre cuando quiera con /torneo empezar poker|blackjack <premio> [inscripción]. Botón [APUNTARME], se juega desde el chat con botones y el ganador se lleva el premio en DerivaCoins.\n• Si el ganador no está conectado, el premio se le da al entrar.",
-    "1.54.5": "• Junta la 1.54.1 con lo que solo tenía la 1.25.3: vuelven las SUBASTAS EN DIRECTO (/subasta empezar <precio> [segundos] [subida], se puja con /pujar o los botones del chat, Atril de subasta en la pestaña del casino) y los TORNEOS de póker y blackjack (/torneo empezar poker|blackjack <premio> [inscripción], /torneo apuntarme, /torneo comenzar).\n• Vuelve a ir dentro el Teaser Tráiler 2 (/teasertrailer2 accion en un mundo de un jugador).\n• Trae todo lo de la 1.54.1: cámaras de seguridad, Mercado Negro como mod aparte, la gema del pozo nueva, Gran Casino con la oficina del dueño y mucho más (lo tienes entero en Novedades)."
+    "1.54.5": "• Junta la 1.54.1 con lo que solo tenía la 1.25.3: vuelven las SUBASTAS EN DIRECTO (/subasta empezar <precio> [segundos] [subida], se puja con /pujar o los botones del chat, Atril de subasta en la pestaña del casino) y los TORNEOS de póker y blackjack (/torneo empezar poker|blackjack <premio> [inscripción], /torneo apuntarme, /torneo comenzar).\n• Vuelve a ir dentro el Teaser Tráiler 2 (/teasertrailer2 accion en un mundo de un jugador).\n• Trae todo lo de la 1.54.1: cámaras de seguridad, Mercado Negro como mod aparte, la gema del pozo nueva, Gran Casino con la oficina del dueño y mucho más (lo tienes entero en Novedades).",
+    "1.60.0": "• Va todo junto: subastas y torneos del casino, Teaser Tráiler 2, cámaras arregladas (con Sodium, Iris y shaders), Mercado Negro 1.1.0 con dados en 3D y balanza animada.\n• La Coralina pelea como un jugador: falla golpes, gira la cabeza como una persona, corre a la velocidad de un jugador y con el arco ya no es un láser.\n• «La Coralina construye» (semana 4): telarañas, lava, agua, muros, torres y rompe bloques.\n• /summon coralosis:coralina sale como copia del jugador más cercano. Todo explicado en Novedades."
   },
   "modo_serie": {
     "activo": false,
