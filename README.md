@@ -3,6 +3,7 @@
 Aquí se publican las versiones del modpack de Coralosis para el Launcher Derivaland.
 
 - `version.json` dice cuál es la última versión y dónde está su zip (en la carpeta `modpack/`, solo se deja la última).
+- Desde la 1.54.5 el zip pesa más de 100 MB, así que va con **Git LFS** y `url` apunta a `media.githubusercontent.com` (no a `raw.githubusercontent.com`, que con LFS da solo el puntero). La pestaña Admin del launcher 1.9.0 no deja publicar zips de más de 95 MB: esos hay que subirlos con git y LFS.
 - En el launcher: Ajustes > Enlace de actualizaciones:
   `https://raw.githubusercontent.com/Holasoydany777/derivaland-versiones/main/version.json`
   Con eso, cada versión nueva se instala sola al darle a Jugar.
